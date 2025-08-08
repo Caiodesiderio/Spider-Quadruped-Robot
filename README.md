@@ -16,7 +16,6 @@ O projeto teve como objetivo o desenvolvimento de um robô quadrupede inspirado 
 - https://robotlk.com/how-to-make-3-in-1-spider-robot-quadruped-arduino-nano/
 - https://drive.google.com/drive/folders/1b7LaM1LfQJvB5dP7LX5TX_9ZyOp2bbgy
 
-- 
 ## 👨‍💻 Desenvolvedor
 
 **Caio Daniel**  

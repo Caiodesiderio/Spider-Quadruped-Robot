@@ -29,3 +29,7 @@ Pesquisador em robótica, Software e IA.
 📧 cd.chaves2005@gmail.com | 🌐 www.linkedin.com/in/caiodesiderioch
 
 ---
+
+## 📄 Licença
+
+Licença MIT.  
